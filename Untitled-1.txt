@@ -1,0 +1,91 @@
+  
+                    <div id="content">
+                        <div class="center">
+                            <div class="single_wrap no_sidebar">
+                                <div class="contact-layout1-area">
+                                    <div class="fancy-title align-center with-icon">
+                                        <h2 class="">Feel Free To Contact Us</h2>
+                                        <span class="separator" style="border-bottom-color:#eaeaea">
+                                           <i class="fa fa-envelope" style="color:#fff; background-color:#81AC04;"></i>
+                                        </span>
+                                    </div>
+                    
+                                    <div class="col-md-9 col-sm-12">              
+                                        <div id="frmContact" class="col-md-9 col-sm-12">
+                                            <div id="mail-status"></div>
+                                                <div>
+                                                    <label style="padding-top:20px;">Name</label>
+                                                    <span id="name-info" class="info"></span>
+                                                    <br>
+                                                    <input type="text" name="name" id="name" class="demoInputBox form-control">
+                                                </div>
+                                                <div>
+                                                    <label>Email</label>
+                                                    <span id="email-info" class="info"></span>
+                                                    <br>
+                                                    <input type="text" name="email" id="email" class="demoInputBox form-control">
+                                                </div>
+                                                <div>
+                                                    <label>Subject</label>
+                                                    <span id="subject-info" class="info"></span>
+                                                    <br>
+                                                    <input type="text" name="subject" id="subject" class="demoInputBox form-control">
+                                                </div>
+                                                <div>
+                                                    <label>Content</label>
+                                                    <span id="content-info" class="info"></span>
+                                                    <br>
+                                                    <textarea name="content" id="content1" class="demoInputBox form-control"></textarea>
+                                                </div>
+                                                <div>
+                                                    <button name="submit" class="btnAction" onclick="sendContact();">Send</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3 text-center" style="    background: #faf8f87d;padding: 20px;border: 5px double #81ac05;"> 
+                                            <div class="fancy-title align-center with-icon">
+                                                <h2 class="">Contact Info</h2>
+                                                <span class="separator" style="border-bottom-color:#eaeaea">
+                                                    <i class="fa fa-phone" style="color:#fff; background-color:#81AC04;"></i>
+                                                </span>
+                                            </div>
+                                            <p>Family Apostolate Centre</p>
+                                            <p>Kizhakkumpattukara Rd, <br>Kizhakkumpattukara, Thrissur, Kerala  </p>
+                                            <p>Ph: 0487-2336066</p>
+                                            <p>Pin: 680005 </p>
+                                            <p>
+                                                <a href="mailto:info@trichurfamilyapostolate.org">info@trichurfamilyapostolate.org</a>
+                                            </p>
+                                        </div>
+                                            <!--single_wrap class END-->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--layer_wrapper class END-->
+                            </div>
+                  
+                    
+
+
+
+
+<div class="footer_wrap layer_wrapper ">
+        <div id="footer">
+            <div class="center">
+
+                <div class="rowfooter">
+                    <div class="clear"></div>
+                    
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+        <div id="copyright">
+            <div class="center">
+                <div class="copytext">Copyright ©2018 Family Apostolate, Thrissur | All Rights Reserved | Developed by
+                    <a href="http://www.jecc.ac.in/" target="_blank" rel="nofollow">tbi@jec,Jyothi Engineering College</a>
+                </div>
+            </div>
+        </div> 
+        <!--Footer END-->
+    </div>
