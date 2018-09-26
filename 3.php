@@ -44,7 +44,7 @@
         </div>
         
         <div class="container">
-        <h1>Contact Us</h1>
+        <h1>Contact Us form</h1>
             
             <div class="row-sm" style="background: hsl(204, 84%, 80%);padding: 20px;border: 6px double #0cfa54;width: 70em"> 
                 <h1>Map</h1>
